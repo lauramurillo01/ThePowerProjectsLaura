@@ -1,10 +1,3 @@
-contener
-
-- readme
-- esquema BBDD que me proporcionan
-- archivo sql con las consultas resueltas
-
-
 ## 📊 Proyecto SQL: Análisis de la Base de Datos Sakila (PostgreSQL)
 
 # 📖 Descripción
@@ -24,9 +17,17 @@ Buenas prácticas de legibilidad y comentarios en el código SQL.
 # 🗂️ Estructura del Proyecto
 
 ProyectoModule5/
+
+
 ├── BBDD_Proyecto_shakila_sinuser.sql      # Script del esquema de la BBDD (tablas, tipos, secuencias y datos)
+
+
 ├── EnunciadoDataProject_SQL_Lógica.pdf     # Enunciado original con los 64 ejercicios propuestos
+
+
 ├── Shakila-Project-consultas.sql           # Archivo con las 64 consultas resueltas y comentadas
+
+
 └── README.md                               # Descripción del proyecto (archivo README)
 
 # 🛠️ Instalación y Requisitos
@@ -77,4 +78,6 @@ Este es un proyecto individual de carácter académico, por lo que no se aceptan
 
 
 Laura Murillo Guijarro
+
+
 [@lauramurillo01] (https://github.com/lauramurillo01)
