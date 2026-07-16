@@ -1,6 +1,6 @@
-## 📊 Proyecto SQL: Análisis de la Base de Datos Sakila (PostgreSQL)
+# 📊 Proyecto SQL: Análisis de la Base de Datos Sakila (PostgreSQL)
 
-# 📖 Descripción
+## 📖 Descripción
 
 Este proyecto aplica los conocimientos adquiridos en el módulo 5 de SQL, siguiendo las especificaciones de la lección "Lógica: Consultas de SQL". El objetivo es demostrar el manejo de PostgreSQL y DBeaver a través de la resolución de 64 consultas sobre la base de datos proporcionada (Sakila), un esquema relacional que simula el negocio de una tienda de alquiler de películas (clientes, empleados, tiendas, alquileres, pagos, películas, actores, categorías, etc.).
 
@@ -14,7 +14,7 @@ Estructuras de datos temporales (CREATE TEMPORARY TABLE).
 Buenas prácticas de legibilidad y comentarios en el código SQL.
 
 
-# 🗂️ Estructura del Proyecto
+## 🗂️ Estructura del Proyecto
 
 ProyectoModule5/
 
@@ -30,7 +30,7 @@ ProyectoModule5/
 
 └── README.md                               # Descripción del proyecto (archivo README)
 
-# 🛠️ Instalación y Requisitos
+## 🛠️ Instalación y Requisitos
 
 Para ejecutar este proyecto necesitas:
 
@@ -53,7 +53,7 @@ Abre el archivo Shakila-Project-consultas.sql en DBeaver y ejecuta cada consulta
 
 
 
-# 📊 Resultados y Conclusiones
+## 📊 Resultados y Conclusiones
 
 
 - El esquema Sakila permite practicar relaciones típicas de negocio a través de tablas puente como film_actor, film_category e inventory.
@@ -63,18 +63,18 @@ Abre el archivo Shakila-Project-consultas.sql en DBeaver y ejecuta cada consulta
 - Las vistas y tablas temporales facilitan reutilizar resultados intermedios (como el total de alquileres por cliente) sin tener que repetir la misma lógica de agregación en cada consulta.
 
 
-# 🔄 Próximos Pasos
+## 🔄 Próximos Pasos
 
 
 - Seguir practicando y profundizando en SQL, especialmente en consultas más avanzadas (funciones de ventana, optimización de rendimiento).
 - Continuar aprendiendo nuevas herramientas y técnicas para mejorar.
 
 
-# 🤝 Contribuciones
+## 🤝 Contribuciones
 
 Este es un proyecto individual de carácter académico, por lo que no se aceptan contribuciones externas por el momento. Cualquier sugerencia de mejora es bienvenida a través de un issue en el repositorio.
 
-# ✒️ Autores
+## ✒️ Autores
 
 
 Laura Murillo Guijarro
