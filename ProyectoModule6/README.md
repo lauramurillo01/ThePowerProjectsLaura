@@ -10,17 +10,9 @@ El desarrollo se ha realizado principalmente en un **notebook de Jupyter (`.ipyn
 
 ```
 ProyectoModule6/
-
-
 ├── EnunciadoDataProjectPython.pdf   # Enunciado original con los 41 ejercicios
-
-
 ├── Logica_katas_python.ipynb        # Notebook con la resolución de todos los ejercicios
-
-
 ├── Proyectio_katas_python.py        # Misma resolución, exportada como script .py
-
-
 └── README.md                        # Descripción del proyecto
 ```
 
