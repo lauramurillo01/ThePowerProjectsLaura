@@ -19,7 +19,6 @@ ProyectoModule6/
 ## 🛠 Instalación y Requisitos
 
 Este proyecto usa Python 3 y solo depende de la librería estándar (`functools`), por lo que no requiere instalar paquetes adicionales.
-```
 
 Nota: algunas funciones son interactivas (piden datos con `input()`, como `pedir_edad`, `buscar_nombre` o `calcular_compra`) y deben llamarse manualmente para probarlas.
 
