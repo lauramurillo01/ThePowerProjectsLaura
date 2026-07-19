@@ -44,7 +44,6 @@ Las contribuciones son bienvenidas. Si detectas algún error o quieres proponer 
 
 Laura Murillo Guijarro
 
-
 [@lauramurillo01] (https://github.com/lauramurillo01)
 
 
