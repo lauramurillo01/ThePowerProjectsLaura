@@ -5,7 +5,7 @@ Tiene q incluir
 - datos originales con los q se ha trabajado 
 
 
-# 🐍 Katas de Python: Ejercicios de Lógica de Programación
+# 🐍 Dashboard & Análisis de datos
 
 ## 📖 Descripción
 
