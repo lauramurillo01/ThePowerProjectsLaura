@@ -12,11 +12,11 @@ Para ello se aplicaron técnicas de limpieza y transformación de datos, anális
 ## 🗂 Estructura del Proyecto
 
 ```
-├── original_spotify_tracks.xlsx   # Dataset original descargado de Kaggle, sin modificar
-├── spotify_analysis_dashboard.xlsx           # Libro de Excel con la limpieza, el análisis y el dashboard
-├── data_info.txt                  # Notas sobre las columnas y características del dataset original
-├── informe_analisis.docx          # Informe explicativo del análisis (objetivo, metodología, hallazgos y conclusiones)
-└── README.md                      # Descripción del proyecto
+├── original_spotify_tracks.xlsx        # Dataset original descargado de Kaggle, sin modificar
+├── spotify_analysis_dashboard.xlsx     # Libro de Excel con la limpieza, el análisis y el dashboard
+├── data_info.txt                       # Notas sobre las columnas y características del dataset original
+├── informe_analisis.docx               # Informe explicativo del análisis (objetivo, metodología, hallazgos y conclusiones)
+└── README.md                           # Descripción del proyecto
 ```
 
 ## 🛠 Instalación y Requisitos
